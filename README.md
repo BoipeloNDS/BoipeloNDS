@@ -1,20 +1,22 @@
-<p align="center">
-<img src="https://github.com/BoipeloNDS.png" width="120" />
-</p>
+<table width="100%">
+<tr>
+<td width="150" align="center">
+<img src="https://wsrv.nl/?url=github.com/BoipeloNDS.png&mask=circle&w=240&h=240" width="130" />
+</td>
+<td>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BOIPELO%20NTSOANE&fontSize=36&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Regulatory%20Intelligence%20%C2%B7%20Computer%20Science%20%40%20Adelaide&descSize=16&descColor=DEDEDE&descAlignY=62" width="100%"/>
-</p>
+# Boipelo Ntsoane
+*Regulatory Intelligence · Computer Science @ Adelaide*
 
-<p align="center">
-<em>Foresight is a deliverable, not a nice-to-have.</em>
-</p>
+*Foresight is a deliverable, not a nice-to-have.*
 
-<p align="center">
 <a href="https://www.linkedin.com/in/boipelo-ntsoane/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://holkamadvisory.com"><img src="https://img.shields.io/badge/Holkam_Advisory-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:info@holkamadvisory.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
