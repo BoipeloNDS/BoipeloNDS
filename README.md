@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="150" align="center">
-<img src="https://wsrv.nl/?url=github.com/BoipeloNDS.png&mask=circle&w=240&h=240" width="130" />
+<img src="https://github.com/BoipeloNDS.png" width="130" />
 </td>
 <td>
 
