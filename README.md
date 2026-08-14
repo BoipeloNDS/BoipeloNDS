@@ -1,19 +1,9 @@
-# BoipeloNDS
-
-> Regulatory intelligence, built where the AI infrastructure was cheapest and the industry least automated.
-
-**Theme:** Holkam Monochrome · **Style:** Flat, hairline, restrained · **Focus:** Regulatory Intelligence & Systems
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
-
-## Header
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=140&section=header&text=BOIPELO%20NTSOANE&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Regulatory%20Intelligence%20%C2%B7%20Computer%20Science%20%40%20Adelaide&descSize=16&descColor=DEDEDE&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BOIPELO%20NTSOANE&fontSize=36&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Regulatory%20Intelligence%20%C2%B7%20Computer%20Science%20%40%20Adelaide&descSize=16&descColor=DEDEDE&descAlignY=62" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3200&pause=1200&color=1A1A1A&center=true&vCenter=true&width=700&lines=Foresight+is+a+deliverable%2C+not+a+nice-to-have.;The+law+moves+slowly.+I+don't+wait+for+it+to+move.;AU+regulatory+change+reaches+SA+on+a+12-18+month+delay." alt="Typing SVG" />
+<em>Foresight is a deliverable, not a nice-to-have.</em>
 </p>
 
 <p align="center">
@@ -22,7 +12,7 @@
 <a href="mailto:info@holkamadvisory.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+---
 
 ## About Me
 
@@ -34,7 +24,7 @@ South African firms aren't behind because they lack talent. They're behind becau
 
 Also building websites for eCommerce clients outside of Holkam — references available on request.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+---
 
 ## Skills
 
@@ -48,7 +38,7 @@ Also building websites for eCommerce clients outside of Holkam — references av
 <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+---
 
 ## GitHub Stats
 
@@ -64,7 +54,7 @@ this profile rather than for it. Uncomment once coursework and client repos are 
 
 *Held back until there's something real to show — see the note in the file source.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+---
 
 ## Projects
 
@@ -77,7 +67,7 @@ this profile rather than for it. Uncomment once coursework and client repos are 
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+---
 
 ## Connect
 
@@ -88,5 +78,3 @@ this profile rather than for it. Uncomment once coursework and client repos are 
 </p>
 
 <p align="center"><em>Where am I wrong? Tell me.</em></p>
-
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
