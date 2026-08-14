@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://github.com/BoipeloNDS.png" width="120" />
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BOIPELO%20NTSOANE&fontSize=36&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Regulatory%20Intelligence%20%C2%B7%20Computer%20Science%20%40%20Adelaide&descSize=16&descColor=DEDEDE&descAlignY=62" width="100%"/>
 </p>
 
