@@ -11,14 +11,18 @@
 *Foresight is a deliverable, not a nice-to-have.*
 
 <a href="https://www.linkedin.com/in/boipelo-ntsoane/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://holkamadvisory.com"><img src="https://img.shields.io/badge/Holkam_Advisory-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://holkamadvisory.com"><img src="https://img.shields.io/badge/Holkam_Advisory-C9A24B?style=for-the-badge&logo=googlechrome&logoColor=1A1A1A" /></a>
 <a href="mailto:info@holkamadvisory.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
----
+<p align="center">
+<img src="https://www.holkamadvisory.com/assets/logo.png" height="26" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A24B&height=3&section=header" width="100%"/>
 
 ## About Me
 
